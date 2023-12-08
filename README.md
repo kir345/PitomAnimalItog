@@ -43,10 +43,6 @@
 7. В подключенном MySQL репозитории создать [базу данных **"Друзья
 человека".**](Humananimals.sql)
 
-CREATE DATABASE Human_friends;
-
-![табл1](https://github.com/kir345/I_PITOMNIK_ANIMAL/assets/123649165/6bf82d27-a8de-4b7d-92aa-91fa9b574005)
-
 8. Создать таблицы с иерархией из диаграммы в БД.
    
 ![табл2](https://github.com/kir345/I_PITOMNIK_ANIMAL/assets/123649165/1935dd0c-fb25-4ab6-883a-3add20cf75d5)
