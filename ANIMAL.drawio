@@ -1,0 +1,101 @@
+<mxfile host="65bd71144e">
+    <diagram id="rLT31OHEzhfU7vpU5jdQ" name="Страница 1">
+        <mxGraphModel dx="782" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="34" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="23">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Class &#10;Dog" style="swimlane;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="500" width="80" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="165" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Class &#10;Cat" style="swimlane;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="500" width="90" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="Class &#10;Humster" style="swimlane;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="500" width="90" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Class &#10;Horse" style="swimlane;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="500" width="90" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="30">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="565" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Class &#10;Camel" style="swimlane;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="500" width="90" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="31" target="43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Class &#10;Donkey" style="swimlane;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="500" width="90" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Class&amp;nbsp;&lt;br&gt;homeAnimals" style="swimlane;whiteSpace=wrap;html=1;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="280" width="200" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=270;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=270;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Class&amp;nbsp;&lt;br&gt;packAnimals" style="swimlane;whiteSpace=wrap;html=1;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="280" width="200" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=270;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=270;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Class Animals" style="swimlane;whiteSpace=wrap;html=1;fontSize=11;startSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="40" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=11;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="280" as="sourcePoint"/>
+                        <mxPoint x="360" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=11;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="560" y="280" as="sourcePoint"/>
+                        <mxPoint x="400" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="180" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="445" y="180" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
