@@ -42,6 +42,7 @@
 
 7. В подключенном MySQL репозитории создать базу данных **"Друзья
 человека".**
+
 CREATE DATABASE Human_friends;
 
 ![табл1](https://github.com/kir345/I_PITOMNIK_ANIMAL/assets/123649165/6bf82d27-a8de-4b7d-92aa-91fa9b574005)
