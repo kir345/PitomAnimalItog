@@ -40,8 +40,8 @@
 
 ![диаграмма](https://github.com/kir345/I_PITOMNIK_ANIMAL/assets/123649165/60f2df6a-26d5-47b0-8b26-74bb75cc1569)
 
-7. В подключенном MySQL репозитории создать базу данных **"Друзья
-человека".**
+7. В подключенном MySQL репозитории создать [базу данных **"Друзья
+человека".**](Humananimals.sql)
 
 CREATE DATABASE Human_friends;
 
